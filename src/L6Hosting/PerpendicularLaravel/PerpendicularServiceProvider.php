@@ -2,7 +2,7 @@
 
 use Illuminate\Support\ServiceProvider;
 
-class PerpendicularLaravelServiceProvider extends ServiceProvider {
+class PerpendicularProvider extends ServiceProvider {
 
 	/**
 	 * Indicates if loading of the provider is deferred.
